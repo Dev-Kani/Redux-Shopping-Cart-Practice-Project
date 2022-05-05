@@ -2,7 +2,6 @@ import React, { useEffect } from "react";
 import CartItem from "./CartItem";
 import { connect } from "react-redux";
 import { CLEAR_CART, GET_TOTALS } from "../actions";
-// import cartItems from "../cart-items";
 
 const CartContainer = ({ cart = [], total, dispatch }) => {
   useEffect(() => {
