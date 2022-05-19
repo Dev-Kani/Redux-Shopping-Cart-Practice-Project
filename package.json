@@ -1,7 +1,6 @@
 {
   "name": "Redux_Shopping_Cart",
   "version": "0.1.0",
-  "homepage": "https://Dev-Kani.github.io/Redux-Shopping-Cart-Practice-Project",
   "private": true,
   "dependencies": {
     "react": "^16.13.0",
